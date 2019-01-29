@@ -3,6 +3,8 @@
 ## create a data frame of your installed packages
 ## hint: installed.packages() is the function you need
 
+installed.packages() 
+
 ## optional: select just some of the variables, such as
 ##   * Package
 ##   * LibPath
