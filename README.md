@@ -7,3 +7,6 @@
   - `R/03_barchart-packages-built.R`
 * It's OK if you don't finish! We can keep working on this later.
 * If you finish quickly, write an R script to run the whole analysis and, perhaps, another script that does a `make clean` style reset.
+
+
+[render.md](R/01_write-installed-packages.md)  
