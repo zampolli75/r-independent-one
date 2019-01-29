@@ -2,8 +2,8 @@
 
 ## create a data frame of your installed packages
 ## hint: installed.packages() is the function you need
-
-df <- installed.packages() 
+library(tidyverse)
+df <- installed.packages() %>% as.tibble()
 
 head(df)
 
